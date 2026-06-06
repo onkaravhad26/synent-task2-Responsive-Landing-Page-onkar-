@@ -16,6 +16,7 @@ It is a beginner-friendly web development project - Responsive landing page.
 
  📂 Project Structure
 Project Folder
+│── README.md
 │── index.html
 │── style.css
-│── README.md
+
