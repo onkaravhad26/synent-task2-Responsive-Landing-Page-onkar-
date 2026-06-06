@@ -1,0 +1,21 @@
+Responsive landing page.
+
+ 📌 Description
+This project is created using HTML, CSS and JavaScript.  
+It is a beginner-friendly web development project - Responsive landing page.
+
+🚀 Features
+- Responsive Design
+- Simple and Clean UI
+- Mobile Compatible
+- Interactive Elements
+
+🛠️ Technologies Used
+- HTML
+- CSS
+
+ 📂 Project Structure
+Project Folder
+│── index.html
+│── style.css
+│── README.md
